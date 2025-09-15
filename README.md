@@ -1,6 +1,6 @@
-# Calendar Application
+# Extensible Calendar Application
 
-This project implements a virtual calendar application with functionality similar to modern calendar tools such as Google Calendar. It supports creating, editing, querying, and exporting both single and recurring events. The application allows management of multiple calendars across different time zones and includes the ability to copy events between calendars.
+This project implements a calendar application with functionality similar to modern calendar tools such as Google Calendar. It supports creating, editing, querying, and exporting both single and recurring events. The application allows management of multiple calendars across different time zones and includes the ability to copy events between calendars.
 
 It uses a clean, modular design emphasizing correctness, extensibility, and clarity.
 
